@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: demo
+  annotations:
+    "helm.sh/resource-policy": keep

@@ -1,0 +1,11 @@
+[
+  {
+    "binding": "monitor-tenant",
+    "type": "Synchronization",
+    "objects": [
+      {
+        "object": { "spec": { "name": "hello world!" } }
+      }
+    ]
+  }
+]
